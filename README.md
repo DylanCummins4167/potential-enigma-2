@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # <Your-Project-Title>
 License Program
 ## Description
@@ -23,9 +23,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    [https://choosealicense.com/](https://choosealicense.com/).
 
 ## Credits
 
@@ -37,7 +35,7 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to 
 
 ---
 =======
@@ -45,4 +43,4 @@ The last section of a high-quality README file is the license. This lets other d
 
 ![badgeboard](https://github.com/DylanCummins4167/potential-enigma-2/assets/129929151/674849bc-02e0-4a38-a6ef-12cae16b18bf)
 
->>>>>>> 44b2d7d54eed4a5e8fa0468c5ebbed28c8d73ba7
+
