@@ -23,7 +23,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    [https://choosealicense.com/](https://choosealicense.com/).
+   ![badgeboard](https://github.com/DylanCummins4167/potential-enigma-2/assets/129929151/674849bc-02e0-4a38-a6ef-12cae16b18bf)
 
 ## Credits
 
@@ -39,8 +39,6 @@ The last section of a high-quality README file is the license. This lets other d
 
 ---
 =======
-# License Program
 
-![badgeboard](https://github.com/DylanCummins4167/potential-enigma-2/assets/129929151/674849bc-02e0-4a38-a6ef-12cae16b18bf)
 
 
