@@ -14,14 +14,12 @@ This application will allow users to generate a license badge as well as a link 
 
 ## Installation
 
-Al that is required to install the application is to search it's name in a web browser, "License Program", and install the program onto your personal computer or mobil device.
+All that is required to install the application is to search it's name in a web browser, "License Program", and install the program onto your personal computer or mobil device.
 
 
-## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
 
    ![badgeboard](https://github.com/DylanCummins4167/potential-enigma-2/assets/129929151/674849bc-02e0-4a38-a6ef-12cae16b18bf)
 
