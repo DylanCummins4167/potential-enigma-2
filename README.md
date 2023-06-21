@@ -14,7 +14,7 @@ This application will allow users to generate a license badge as well as a link 
 
 ## Installation
 
-All that is required to install the application is to search it's name in a web browser, "License Program", and install the program onto your personal computer or mobil device.
+All that is required to install the application is to search it's name in a web browser, "License Program", and install the program onto your personal computer or mobile device.
 
 
 
